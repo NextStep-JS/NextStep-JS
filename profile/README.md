@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cyberpunk Neon Logo" width="250"/>
+  <a href="https://youtu.be/Eh2eFk6f9zc">
+    <img src="https://i.pinimg.com/originals/16/72/20/167220fb4f5d929ccffbf2751183baf1.gif?raw=true" width="1500" height="300" alt="MasterHead GIF"/>
+  </a>
 </p>
-
 <h1 align="center">🚀 NextStep JS</h1>
 <p align="center">
   Collaborative web projects with <b>JavaScript</b>, <b>Next.js</b>, <b>MERN stack</b> and more!<br/>
