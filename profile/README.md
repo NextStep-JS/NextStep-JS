@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/Eh2eFk6f9zc">
-    <img src="https://i.pinimg.com/originals/16/72/20/167220fb4f5d929ccffbf2751183baf1.gif?raw=true" width="1500" height="300" alt="MasterHead GIF"/>
+    <img src="https://i.pinimg.com/originals/16/72/20/167220fb4f5d929ccffbf2751183baf1.gif?raw=true" width="900" height="250" alt="MasterHead GIF"/>
   </a>
 </p>
 <h1 align="center">🚀 NextStep JS</h1>
